@@ -33,8 +33,7 @@ BODY:   {
             "email":"user-2@gmail.com",
             "price":200
         }
-        
-        
+         
 2. Get All the Transaction History
 API: GET /transaction/all
 
@@ -60,3 +59,8 @@ API:  GET /user
 BODY: {
           "email":"user-1@gmail.com"
       }
+
+
+
+### Note - For making payments currently I have integrated with stripe services with the test stripe account.
+### Note - For evaluation purpose I am posting the config file will remove it later.
