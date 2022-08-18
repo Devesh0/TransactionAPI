@@ -1,4 +1,4 @@
-# PeppoTransactionAPI
+# TransactionAPI
 
 ### Run `npm install`
 
